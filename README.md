@@ -4,4 +4,5 @@ This repository contains my work as I follow along with a Pygame tutorial from T
 
 You can find the tutorial video here: [Pygame in 90 Minutes - For Beginners](https://www.youtube.com/watch?v=jO6qQDNa2UY)
 
+# Finished game
 ![Finished game](images/finished_game.png)
